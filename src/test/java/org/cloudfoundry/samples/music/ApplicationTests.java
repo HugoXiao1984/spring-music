@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
  * PetClinic Spring Boot Application.
  *
  * @author Dave Syer
- * @author hugo xiao
+ * @author hugo
  */
 
 @RunWith(SpringRunner.class)
